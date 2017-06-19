@@ -88,7 +88,7 @@ to discuss the approach before submitting a PR.
 - [Sliders](https://www.google.com/design/spec/components/sliders.html)
   - [Continuous](https://www.google.com/design/spec/components/sliders.html#sliders-continuous-slider)
   - [Discrete](https://www.google.com/design/spec/components/sliders.html#sliders-discrete-slider)
-- [Snackbars](https://www.google.com/design/spec/components/snackbars-toasts.html)
+- **[Snackbars](https://www.google.com/design/spec/components/snackbars-toasts.html) ✓**
 - **[Subheaders](https://www.google.com/design/spec/components/subheaders.html) ✓**
   - **[List](https://www.google.com/design/spec/components/subheaders.html#subheaders-list-subheaders) ✓**
   - [Grid](https://www.google.com/design/spec/components/subheaders.html#subheaders-list-subheaders)
